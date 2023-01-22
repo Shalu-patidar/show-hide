@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.bg {
+  background-image: linear-gradient(to right, #fa7257, #fc63a7);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.card-btn {
+  display: flex;
+  flex-direction: row;
+}
+.btn-container {
+  margin: 30px;
+}
+.btn {
+  border-radius: 10px;
+  height: 30px;
+  border-width: 0px;
+  color: #dd1264;
+  font-family: 'Roboto';
+}
+.para {
+  color: black;
+  font-family: 'Roboto';
+  background-color: #fddddb;
+  line-height: 3em;
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 10px;
+}
